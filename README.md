@@ -1,8 +1,8 @@
 **Grundlagen der Anwendungsentwicklung A4**
 **Submitted by 108622**
 # Introduction to Pandas DataFrames – Replicating an article in Markdown
-Das Repository *GDA-108622* enthält die folgenden Dateien:
-- Notebook (Pandas.ipynb): Online-Artikel einer Einführung zu Pandas
-- Bilddatei (Pandas.webp): einleitendes Bild
-- Textdatei (README.md): Beschreibung dieses Repositorys
-Im Unterordner *dist* findet sich die HTML-Version des Notebooks inkl. eingebettetem Bild.
+The repository *GDA-108622* contains the following files:
+- notebook (Pandas.ipynb): article of a introduction to the python module *Pandas*
+- image (Pandas.webp): descriptive image as part of the article
+- textfile (README.md): description of this repository
+The subfolder *dist* contains a HTML-version of the notebook which was created as a training to jupyter notebooks, markdown and versioning using github.
